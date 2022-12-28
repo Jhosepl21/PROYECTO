@@ -81,7 +81,7 @@ header .navbar a{
 }
 
 header .navbar a:hover{
-    color:rgb(223, 99, 99);
+    color:rgb(55, 49, 176);
 }
 
 header .icons a{
@@ -198,7 +198,7 @@ header .fa-bars{
 
 .icons-container .icons{
     background:#fff;
-    border:.1rem solid rgba(0,0,0,.1);
+    border:.1rem solid rgba(0, 0, 0, 0.567);
     padding:2rem;
     display: flex;
     align-items: center;
@@ -211,7 +211,7 @@ header .fa-bars{
 }
 
 .icons-container .icons h3{
-    color:#333;
+    color:rgb(31, 30, 30);
     padding-bottom: .5rem;
     font-size: 1.5rem;
 }
@@ -309,7 +309,7 @@ header .fa-bars{
 
 .productsgame .box-container .box .content .price span{
     font-size: 1.5rem;
-    color:#999;
+    color:rgb(41, 39, 39);
     font-weight: lighter;
     text-decoration: line-through;
 }
@@ -370,7 +370,7 @@ header .fa-bars{
     font-size: 2rem;
     width:50%;
     background:var(--pink);
-    color:#fff;
+    color:rgb(21, 20, 20);
 }
 
 .products .box-container .box .image .icons .cart-btn{
